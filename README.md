@@ -1,3 +1,15 @@
+# Тестовое задание от ООО Траектория
+
+Использованный стек:
+1. Create-react-app
+2. React
+3. Redux-toolkit
+4. Axios
+5. React-router
+6. Material UI
+6. Typescript
+7. SCSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
